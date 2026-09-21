@@ -1,0 +1,11 @@
+¡Hola Juan! 🌼💛
+
+Si deseas que la página reproduzca una canción específica cuando Tamara presione el botón de música 🔊:
+
+1. Busca tu canción favorita (por ejemplo "Flores Amarillas" de Floricienta, o su canción especial).
+2. Nómbrala exactamente: musica.mp3
+3. Colócala en esta carpeta "public":
+   c:\Users\JUANB\Desktop\Flores amarillas\public\musica.mp3
+
+¡Y listo! La página la detectará automáticamente.
+Si no agregas ningún archivo, ¡no te preocupes! La página tiene integrado un tierno sintetizador de cajita musical acústica romántica para que nunca se quede en silencio si ella activa la música.
